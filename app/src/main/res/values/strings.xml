@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Database1</string>
+    <string name="unique_id">Unique Id</string>
+    <string name="mail">Mail</string>
+    <string name="these_are_your_deatils_from_our_database">These are your deatils from our Database</string>
+    <string name="welcome">Welcome</string>
+    <string name="these_are_your_details_from_our_database">these_are_your_details_from_our_database</string>
+    <string name="database_resource">These are your details from our database</string>
+</resources>
